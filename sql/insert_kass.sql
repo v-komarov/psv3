@@ -1,0 +1,1 @@
+INSERT INTO ps_kassa_list (ps_rec_id,ps_kassa_name) VALUES(4,' ¿——');

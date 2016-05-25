@@ -1,0 +1,19 @@
+CREATE FUNCTION ps_CheckLogin() RETURNS text
+
+AS 
+$BODY$
+
+DECLARE
+
+
+
+BEGIN
+
+RETURN 'OK';
+
+END;$BODY$
+
+LANGUAGE 'plpgsql'
+
+
+
